@@ -15,9 +15,9 @@
   "bugs": {
     "url": "https://github.com/rlw950/jest-another-RPG/issues"
   },
-  "keywords": [],
-  "dependencies": {
-    "inquirer": "^8.1.5",
-    "jest": "^24.9.0"
+
+  "homepage": "https://github.com/rlw950/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.2.2"
   }
 }
